@@ -7,7 +7,7 @@
 
 Here are some ideas to get you started:
 
-# Hola, me llamo Juan De Ita, soy de Mexico, me desempeño en el ambito de la programación en python, estoy en formacion en tokio school, si quieres saber mas sobre mis trabajos, sigue mi Github.
+## Hola, me llamo Juan De Ita, soy de Mexico, me desempeño en el ambito de la programación en python, estoy en formacion en tokio school, si quieres saber mas sobre mis trabajos, sigue mi Github.
 
-# 🔭 I’m currently working on programming python, java, etc.
-# 🌱 I’m currently learning in tokio school from spain, i am working in remote from México.
+## 🔭 I’m currently working on programming python, java, etc.
+## 🌱 I’m currently learning in tokio school from spain, i am working in remote from México.
